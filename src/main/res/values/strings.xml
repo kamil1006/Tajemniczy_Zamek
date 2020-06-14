@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Tajemniczy Zamek</string>
+    <string name="wstep">Za siedmioma morzami, za siedmioma lasami stoi ponure zamczysko. Kto tylko wejdzie
+    w jego mury ginie bez ratunku. Rycerze z wielu krain przybywali pod bramy warowni lecz tajemnicy nie odkryli.
+        Teraz Twoja kolej</string>
+    <string name="wybor1">Stoisz pod murami zamku. Widzisz drzwi do piwnicy i schody do sieni zamkowej. Wybieraj!</string>
+
+    <string name="sien">Wielka, jasna komnata. Dwoje drzwi. NIebieskie i czarne. Tajemczniczy szept radzi Ci uciec!</string>
+    <string name="wybor2"> Wybieraj!</string>
+
+    <string name="loch">Ciemny, wilgotny loch. W rogu pod drzwiami okrutnie chrapie czart Boruta.
+    Obok stoi worek srebra, na nim stoi pistolet i czapka. Zabierz przedmiot najcenniejszy dla czarta.
+        W zamian za ten przedmiot wejdziesz do kolejnej komnaty</string>
+    <string name="wybor3"> Wybieraj!</string>
+
+    <string name="loch2">Wyrwany ze snu Boruta zaciska pazury na Twoim karku. Przekroczysz progi kolejnej komnaty gdy odpowiedz na pytanie.
+        </string>
+    <string name="wybor4"> ILE SZTUK SREBRA JEST W WORKU !?</string>
+
+    <string name="powodz">Za niebieskimi drzwiami kryte jest zaczarowane jezioro. Uwalniasz jego wody i zamek ginie  pod wzburzonymi falami.
+        </string>
+    <string name="wybor5"> Tajemnica zamku jest nadal niepoznana...</string>
+
+    <string name="loch3">Boruta nigdy nie opuszcza lochu bez czapki. Ukrywa on przed ludzkim wzrokiem jego diabelskie rogi.
+        Za zwrot czapki Boruta Otwiera drzwi do kolejnej komnaty
+        </string>
+    <string name="wybor6"> ""</string>
+
+    <string name="korytarz">Szeroki korytarz. Pochodnie przytwiedzone do muru. Obok szabla, maczuga i kusza. Z drugiej
+        strony lustro i zbroja rycerska. Nadchodzi straszny Bazyliszek.
+        </string>
+    <string name="wybor7"> Wybierz jeden przedmiot i zabij potwora!</string>
+
+    <string name="korytarz2">Bazyliczek pada martwy na widok swego odbicia w lustrze. Boruta umyka gdzie pieprz rośnie. Czar pryska!
+        </string>
+    <string name="wybor8"> ""</string>
+
+    <string name="korytarz3">Nadchodzi prawdziwa pani zamku, dziewczyna cudnej urody. I jak to we wszystkich bajkach
+        bywa - jutro wasze wesele!
+        </string>
+    <string name="wybor9"> "Tym razem nie masz wyboru!"</string>
+
+    <string name="korytarz4">Nic Ci po takiej broni. Bazyliszek zabija swe ofiary wzrokiem.
+        </string>
+
+    <string name="puste">""</string>
+
+
+    <string name="ucieczka">Uciekłeś.
+        </string>
+
+    <string name="porazka2">Nic Ci po takiej broni. Boruta zabija swe ofiary oddechem.
+        </string>
+
+</resources>
